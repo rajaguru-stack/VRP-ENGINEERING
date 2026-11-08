@@ -1,0 +1,124 @@
+{
+  "scenes": {
+    "hero": {
+      "video": {
+        "mp4": "/media/video/hero.mp4",
+        "webm": null,
+        "poster": null,
+        "hasVideo": true
+      }
+    },
+    "blueprint-to-building": {
+      "video": {
+        "mp4": "/media/video/blueprint-to-building.mp4",
+        "webm": null,
+        "poster": null,
+        "hasVideo": true
+      },
+      "frames": {
+        "desktop": {
+          "path": "/media/frames/blueprint-to-building/desktop",
+          "prefix": "frame_",
+          "extension": ".webp",
+          "count": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "mobile": {
+          "path": "/media/frames/blueprint-to-building/mobile",
+          "prefix": "frame_",
+          "extension": ".webp",
+          "count": 0,
+          "width": 720,
+          "height": 405
+        }
+      }
+    },
+    "dtcp-journey": {
+      "video": {
+        "mp4": "/media/video/dtcp-journey.mp4",
+        "webm": null,
+        "poster": null,
+        "hasVideo": true
+      },
+      "frames": {
+        "desktop": {
+          "path": "/media/frames/dtcp-journey/desktop",
+          "prefix": "frame_",
+          "extension": ".webp",
+          "count": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "mobile": {
+          "path": "/media/frames/dtcp-journey/mobile",
+          "prefix": "frame_",
+          "extension": ".webp",
+          "count": 0,
+          "width": 720,
+          "height": 405
+        }
+      }
+    },
+    "steel-boq": {
+      "video": {
+        "mp4": "/media/video/steel-boq.mp4",
+        "webm": null,
+        "poster": null,
+        "hasVideo": true
+      },
+      "frames": {
+        "desktop": {
+          "path": "/media/frames/steel-boq/desktop",
+          "prefix": "frame_",
+          "extension": ".webp",
+          "count": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "mobile": {
+          "path": "/media/frames/steel-boq/mobile",
+          "prefix": "frame_",
+          "extension": ".webp",
+          "count": 0,
+          "width": 720,
+          "height": 405
+        }
+      }
+    },
+    "site-survey": {
+      "video": {
+        "mp4": "/media/video/site-survey.mp4",
+        "webm": null,
+        "poster": null,
+        "hasVideo": true
+      },
+      "frames": {
+        "desktop": {
+          "path": "/media/frames/site-survey/desktop",
+          "prefix": "frame_",
+          "extension": ".webp",
+          "count": 0,
+          "width": 1280,
+          "height": 720
+        },
+        "mobile": {
+          "path": "/media/frames/site-survey/mobile",
+          "prefix": "frame_",
+          "extension": ".webp",
+          "count": 0,
+          "width": 720,
+          "height": 405
+        }
+      }
+    },
+    "about": {
+      "video": {
+        "mp4": "/media/video/about.mp4",
+        "webm": null,
+        "poster": null,
+        "hasVideo": true
+      }
+    }
+  }
+}
